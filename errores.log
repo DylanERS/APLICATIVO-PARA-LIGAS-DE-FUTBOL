@@ -1,0 +1,744 @@
+[25-Mar-2026 18:43:54 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:43:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:44:00 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:44:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:44:06 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:44:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:43 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:48 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:49 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:54 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:56 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:57 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:58 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:45:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:47:28 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:47:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:47:31 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:47:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:47:52 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:47:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:47:54 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:47:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:00 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:31 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:33 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:36 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:37 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:38 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:39 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:40 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:50 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:48:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:49:04 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The INSERT statement conflicted with the FOREIGN KEY constraint "FK__pagos__temporada__6754599E". The conflict occurred in database "LIGA_FUTBOL", table "dbo.temporadas", column 'id'. in C:\xampp\htdocs\LIGA_FUTBOL\models\Finance.php:37
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\models\Finance.php(37): PDOStatement->execute()
+#1 C:\xampp\htdocs\LIGA_FUTBOL\controllers\FinanceController.php(36): Finance->createPago('1', '1', 'Inscripcion', '200')
+#2 C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php(60): FinanceController->index()
+#3 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('finanzas')
+#4 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\models\Finance.php on line 37
+[25-Mar-2026 18:49:06 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:49:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:49:23 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:49:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:49:24 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:49:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:56:14 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:56:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:56:15 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:56:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:56:17 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:56:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:57:16 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:57:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:57:18 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:57:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:58:17 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:58:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:58:53 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 18:58:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:10:41 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:10:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:10:42 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:10:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:10:43 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:10:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:10:48 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:10:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:11:08 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:11:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:11:11 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:11:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:11:11 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:11:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:11:37 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:11:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:11:37 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:11:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:69
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 69
+[25-Mar-2026 19:26:59 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 70
+[25-Mar-2026 19:26:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:70
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 70
+[25-Mar-2026 19:26:59 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 70
+[25-Mar-2026 19:26:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:70
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 70
+[25-Mar-2026 19:27:55 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 70
+[25-Mar-2026 19:27:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:70
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 70
+[25-Mar-2026 19:27:55 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 70
+[25-Mar-2026 19:27:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:70
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 70
+[25-Mar-2026 19:27:57 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 70
+[25-Mar-2026 19:27:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:70
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 70
+[25-Mar-2026 19:27:58 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 70
+[25-Mar-2026 19:27:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:70
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 70
+[25-Mar-2026 19:39:13 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 71
+[25-Mar-2026 19:39:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:71
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 71
+[25-Mar-2026 19:39:13 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 71
+[25-Mar-2026 19:39:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:71
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 71
+[25-Mar-2026 19:39:14 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 71
+[25-Mar-2026 19:39:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:71
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 71
+[25-Mar-2026 19:41:51 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 71
+[25-Mar-2026 19:41:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:71
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 71
+[25-Mar-2026 19:41:51 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 71
+[25-Mar-2026 19:41:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:71
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 71
+[25-Mar-2026 19:41:53 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 71
+[25-Mar-2026 19:41:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:71
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 71
+[25-Mar-2026 19:55:23 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 19:55:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:72
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 19:55:23 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 19:55:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:72
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 19:55:27 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 19:55:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:72
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 19:55:28 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 19:55:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:72
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 19:56:39 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 19:56:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:72
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 19:56:40 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 19:56:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:72
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 19:56:46 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 19:56:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:72
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 72
+[25-Mar-2026 20:06:55 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:06:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:75
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:06:55 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:06:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:75
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:08:37 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:08:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:75
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:08:44 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:08:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:75
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:08:44 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:08:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:75
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:08:52 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:08:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:75
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:08:52 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:08:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:75
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 75
+[25-Mar-2026 20:40:58 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The INSERT statement conflicted with the CHECK constraint "CK__usuarios__role__38996AB5". The conflict occurred in database "LIGA_FUTBOL", table "dbo.usuarios", column 'role'. in C:\xampp\htdocs\LIGA_FUTBOL\models\User.php:105
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\models\User.php(105): PDOStatement->execute()
+#1 C:\xampp\htdocs\LIGA_FUTBOL\controllers\UserController.php(46): User->create()
+#2 C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php(69): UserController->create()
+#3 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('usuarios/create')
+#4 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\models\User.php on line 105
+[25-Mar-2026 20:53:50 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 78
+[25-Mar-2026 20:53:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:78
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 78
+[25-Mar-2026 20:53:52 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 78
+[25-Mar-2026 20:53:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:78
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 78
+[25-Mar-2026 21:04:26 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 78
+[25-Mar-2026 21:04:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:78
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 78
+[25-Mar-2026 21:04:27 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 78
+[25-Mar-2026 21:04:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:78
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 78
+[25-Mar-2026 21:07:44 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 78
+[25-Mar-2026 21:07:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:78
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 78
+[25-Mar-2026 21:07:45 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 78
+[25-Mar-2026 21:07:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:78
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 78
+[26-Mar-2026 00:09:42 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 80
+[26-Mar-2026 00:09:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:80
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 80
+[26-Mar-2026 00:09:43 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 80
+[26-Mar-2026 00:09:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:80
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 80
+[26-Mar-2026 00:57:02 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 00:57:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 00:57:02 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 00:57:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 00:57:07 Europe/Berlin] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 00:57:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[25-Mar-2026 18:04:00 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[25-Mar-2026 18:04:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[25-Mar-2026 18:04:00 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[25-Mar-2026 18:04:00 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[25-Mar-2026 18:04:03 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[25-Mar-2026 18:04:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:25:19 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:25:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:25:22 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:25:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:25:23 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:25:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:25:31 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:25:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:25:45 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:25:45 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:39:39 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:39:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:39:39 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:39:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:54:14 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:54:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:54:14 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:54:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:57:11 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:57:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:57:11 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:57:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:57:15 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:57:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:57:15 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 16:57:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:02:34 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:02:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:02:34 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:02:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:03:16 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:03:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:03:16 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:03:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:03:32 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:03:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:03:34 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:03:34 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:15 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:15 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:27 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:32 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:38 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:38 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:38 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:40 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:04:40 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:05:07 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:05:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:09:04 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:09:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:15:42 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:15:42 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('partido')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:21:01 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:21:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:21:01 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:21:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:21:07 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:21:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:83
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 83
+[26-Mar-2026 17:41:28 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 84
+[26-Mar-2026 17:41:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:84
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 84
+[26-Mar-2026 17:41:52 America/Mexico_City] PHP Warning:  require_once(views/layouts/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 84
+[26-Mar-2026 17:41:52 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/layouts/404.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php:84
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('assets/img/defa...')
+#1 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php on line 84
+[26-Mar-2026 18:00:18 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near ','. in C:\xampp\htdocs\LIGA_FUTBOL\models\Dashboard.php:159
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\models\Dashboard.php(159): PDOStatement->execute()
+#1 C:\xampp\htdocs\LIGA_FUTBOL\controllers\HomeController.php(121): Dashboard->getPartidosFinalizadosConResultados()
+#2 C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php(76): HomeController->partidosResultados()
+#3 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('partidos-result...')
+#4 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\models\Dashboard.php on line 159
+[26-Mar-2026 18:00:47 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near ','. in C:\xampp\htdocs\LIGA_FUTBOL\models\Dashboard.php:159
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\models\Dashboard.php(159): PDOStatement->execute()
+#1 C:\xampp\htdocs\LIGA_FUTBOL\controllers\HomeController.php(121): Dashboard->getPartidosFinalizadosConResultados()
+#2 C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php(76): HomeController->partidosResultados()
+#3 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('partidos-result...')
+#4 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\models\Dashboard.php on line 159
+[26-Mar-2026 18:00:53 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near ','. in C:\xampp\htdocs\LIGA_FUTBOL\models\Dashboard.php:159
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\models\Dashboard.php(159): PDOStatement->execute()
+#1 C:\xampp\htdocs\LIGA_FUTBOL\controllers\HomeController.php(121): Dashboard->getPartidosFinalizadosConResultados()
+#2 C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php(76): HomeController->partidosResultados()
+#3 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('partidos-result...')
+#4 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\models\Dashboard.php on line 159
+[26-Mar-2026 18:01:07 America/Mexico_City] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near ','. in C:\xampp\htdocs\LIGA_FUTBOL\models\Dashboard.php:159
+Stack trace:
+#0 C:\xampp\htdocs\LIGA_FUTBOL\models\Dashboard.php(159): PDOStatement->execute()
+#1 C:\xampp\htdocs\LIGA_FUTBOL\controllers\HomeController.php(121): Dashboard->getPartidosFinalizadosConResultados()
+#2 C:\xampp\htdocs\LIGA_FUTBOL\routes\web.php(76): HomeController->partidosResultados()
+#3 C:\xampp\htdocs\LIGA_FUTBOL\index.php(20): Router->dispatch('partidos-result...')
+#4 {main}
+  thrown in C:\xampp\htdocs\LIGA_FUTBOL\models\Dashboard.php on line 159
